@@ -1,1 +1,2 @@
 This is my first file about git
+I think it's fun.
