@@ -2,3 +2,4 @@ This is my first file about git
 it's like the last person who entered
 hell forgot to shut the door.
 what do you think?
+I've just edited and added some stuff to this file.
