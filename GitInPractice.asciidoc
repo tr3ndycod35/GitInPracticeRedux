@@ -4,4 +4,7 @@ hell forgot to shut the door.
 what do you think?
 It's so surprising that the last joke I posted was
 rejected by the manager.
+Edited on a new branch. Git is becoming interesting
+to me. Hopefully it will be useful for me in the nearest
+future.
 
