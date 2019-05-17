@@ -8,3 +8,6 @@ Edited on a new branch. Git is becoming interesting
 to me. Hopefully it will be useful for me in the nearest
 future.
 
+I have decided to start learning Git again. I hope I finish
+the whole book this time around.
+
