@@ -11,3 +11,6 @@ future.
 I have decided to start learning Git again. I hope I finish
 the whole book this time around.
 
+Been told to add another shit in here to be staged and 
+commited again. So here it goes.
+
