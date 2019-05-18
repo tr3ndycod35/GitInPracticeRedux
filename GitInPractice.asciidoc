@@ -8,6 +8,6 @@ Edited on a new branch. Git is becoming interesting
 to me. Hopefully it will be useful for me in the nearest
 future.
 
-Right now I am testing the functionality of the git pull command
-so I'm updating this shit now for test purpose.
-
+This time around, I'm testing the git fetch command. I was told
+it fetches the latest commit from a repository without performing
+the merge function like git pull.
