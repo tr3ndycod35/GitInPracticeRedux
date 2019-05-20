@@ -1,0 +1,10 @@
+CHAPTER TWO
+This time around, I'm testing the git fetch command. I was told
+it fetches the latest commit from a repository without performing
+the merge function like git pull.
+
+Modified this file in another branch named Chapter Two. Added some
+salting and then save. Just to see how merges are demostrated in 
+git.
+Isn't that interesting? In fact, I've been finding Git to be interesting
+honestly.
