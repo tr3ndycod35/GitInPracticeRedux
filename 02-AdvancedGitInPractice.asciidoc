@@ -5,6 +5,6 @@ the merge function like git pull.
 
 Modified this file in another branch named Chapter Two. Added some
 salting and then save. Just to see how merges are demostrated in 
-git. Isn't that interesting? In fact, I've been finding Git to be interesting
-honestly. You wish to cherry-pic a commit from the v0.1-release branch to the
-master branch.
+git.
+Isn't that interesting? In fact, I've been finding Git to be interesting
+honestly.
